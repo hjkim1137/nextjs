@@ -11,14 +11,24 @@
       "body": "css is..."
     },
     {
-      "id": "3537",
-      "title": "제목입니다",
-      "body": "내용입니다."
+      "id": "3",
+      "title": "javascript",
+      "body": "javascript is..."
     },
     {
-      "id": "e53c",
+      "id": "4",
       "title": "React",
       "body": "react is..."
+    },
+    {
+      "id": "efca",
+      "title": "Next.js",
+      "body": "Next.js is..."
+    },
+    {
+      "id": "60d7",
+      "title": "node.js",
+      "body": "node.js is..."
     }
   ],
   "posts": [
